@@ -1,0 +1,17 @@
+{
+  "name": "huddle-landing-page-865738-master",
+  "version": "1.0.0",
+  "description": "![Header/intro section for the Huddle landing page with single column layout](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Heynes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "normalize-scss": "^7.0.1"
+  }
+}
